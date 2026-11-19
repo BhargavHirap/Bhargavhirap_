@@ -1,88 +1,95 @@
-# Bhargavhirap_
+<!--
+  BHARGAV HIRAP · DEVELOPER PROFILE
+  Keep this README honest, project-focused, and easy to scan.
+-->
 
-<div align="center">BHARGAV HIRAP
+<div align="center">
 
-BUILDING IDEAS INTO REAL-WORLD TECHNOLOGY.
+# BHARGAV HIRAP
 
-First-year Information Technology student · Aspiring Software Developer · Builder
+### BUILDING IDEAS INTO REAL-WORLD TECHNOLOGY.
 
-""GitHub" (https://img.shields.io/badge/GitHub-BhargavHirap-181717?style=for-the-badge&logo=github)" (https://github.com/BhargavHirap)
+**Information Technology Student · Student Developer · Curious Builder**
 
-</div>---
+[![GitHub](https://img.shields.io/badge/GitHub-BhargavHirap-181717?style=for-the-badge&logo=github)](https://github.com/BhargavHirap)
 
-"whoami"
+</div>
 
-I'm an Information Technology student interested in building technology that solves real problems.
+---
 
-I enjoy experimenting with software, AI, automation, IoT and products that connect technology with everyday life.
+## `whoami`
 
-Currently learning, building, breaking things and improving through real projects.
+I'm an Information Technology student interested in creating practical technology that solves real-world problems.
 
+I learn by experimenting, building projects, understanding how systems work, and improving through hands-on practice. My current interests include AI, full-stack development, public mobility, and IoT.
+
+```js
 const bhargav = {
   role: "Student Developer",
-  interests: ["AI/ML", "Full-Stack Development", "IoT", "Open Source"],
-  currentlyBuilding: ["MUMOVE", "Marathi AI"],
-  mindset: "Learn by building.",
-  goal: "Build technology that matters."
+  interests: ["AI & ML", "Web Development", "IoT", "Open Source"],
+  building: ["MUMOVE", "Marathi AI"],
+  approach: "Learn by building.",
 };
+```
 
-FEATURED PROJECTS
+## SELECTED PROJECTS
 
-🚇 MUMOVE
+### 🚇 MUMOVE — Public Mobility Platform
+A project exploring simpler, multimodal public-transport journeys, beginning with Mumbai.
 
-A mobility platform designed to simplify public transport and multimodal journeys, starting with Mumbai.
+[View repository →](https://github.com/BhargavHirap/mumove-)
 
-"Explore Project" (https://github.com/BhargavHirap/mumove-)
+### 🗣️ Marathi AI — Regional-language AI
+Exploring voice-first AI experiences that make useful public information easier to access in Marathi.
 
-🧠 Marathi AI
-
-Exploring regional-language AI and voice-based access to useful public information.
-
-⚡ IoT Smart Energy Meter
-
-An experimental IoT project exploring energy monitoring and intelligent load management.
+### ⚡ IoT Smart Energy Meter
+An experimental ESP32 project exploring energy monitoring, connected devices, and intelligent load management.
 
 ---
 
-TECH STACK
+## TOOLS & TECHNOLOGIES
 
-Languages & Development
+**Languages & development**
 
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2328?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-1F2328?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/React-1F2328?style=flat-square&logo=react)
 
-Tools & Technologies
+**Platforms & hardware**
 
-"Supabase" (https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-"OpenStreetMap" (https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
-"Arduino" (https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1F2328?style=flat-square&logo=supabase)
+![GitHub](https://img.shields.io/badge/GitHub-1F2328?style=flat-square&logo=github)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-1F2328?style=flat-square&logo=openstreetmap)
+![Arduino](https://img.shields.io/badge/Arduino-1F2328?style=flat-square&logo=arduino)
 
 ---
 
-GITHUB ACTIVITY
+## CURRENTLY EXPLORING
 
-<div align="center">"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=BhargavHirap&show_icons=true&theme=transparent&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavHirap&layout=compact&theme=transparent&hide_border=true)
-
-"Contribution Graph" (https://github-readme-activity-graph.vercel.app/graph?username=BhargavHirap&theme=github-compact&hide_border=true)
-
-</div>---
-
-CURRENTLY EXPLORING
-
-- Artificial Intelligence and LLM development
+- Artificial intelligence and language models
 - Full-stack application development
 - Open-source collaboration
-- Smart mobility and transportation technology
+- Smart mobility and transport data
 - IoT and connected systems
 
 ---
 
-<div align="center">THINK. BUILD. EXPERIMENT. REPEAT.
+## GITHUB SNAPSHOT
 
-Always curious. Always building.
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhargavHirap&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavHirap&layout=compact&hide_border=true&theme=transparent)
+
+</div>
+
+---
+
+<div align="center">
+
+**THINK. BUILD. EXPERIMENT. REPEAT.**
+
+*Always curious. Always building.*
 
 </div>
